@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --webkit-font-smoothing: antialiased;
+  font-family: "Akaya Telivigala", cursive;
+}
+.container {
+  width: 1152px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+nav {
+  background: aquamarine;
+}
+h1 {
+  font-family: "Akaya Telivigala", cursive;
+}
+section.input {
+  padding-top: 100px;
+}
+h2 {
+  font-family: "Akaya Telivigala", cursive;
+
+  text-align: center;
+  font-size: 36px;
+}
+h4 {
+  font-family: "Akaya Telivigala", cursive;
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
+.input {
+  margin-top: 20px;
+}
+input {
+  border: 2px solid black;
+  padding: 10px;
+  font-size: 16px;
+  min-width: 500px;
+  outline: none;
+  border-radius: 20px;
+}
+
+button {
+  background: aquamarine;
+  height: 100%;
+  font-size: 16px;
+  padding: 0 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+  cursor: pointer;
+  outline: none;
+}
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid aquamarine;
+  border-bottom: 16px solid aquamarine;
+  width: 50px;
+  height: 50px;
+
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+section.data {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+.loader {
+  display: none;
+}
+section.data p.def {
+  font-size: 20px;
+  line-height: 1.6;
+}
+.not_found {
+  color: red;
+}
+.suggested {
+  background: aquamarine;
+  padding: 2px 10px;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-top: 5px;
+  display: inline-block;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dictionary App</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <nav>
+      <div class="container">
+        <h1>Dictionary App</h1>
+      </div>
+    </nav>
+
+    <section class="input container">
+      <h2>Search a Word <i class="fa fa-search"></i></h2>
+
+      <div class="form">
+        <div class="input">
+          <input
+            type="text"
+            placeholder="Type Here..."
+            id="input"
+            autocomplete="off"
+          />
+          <button id="search">Search</button>
+        </div>
+      </div>
+    </section>
+    <section class="data container">
+      <span><div class="loader"></div> </span>
+      <p class="def"></p>
+      <div class="not_found"></div>
+    </section>
+    <script src="./app.js"></script>
+  </body>
+</html>
