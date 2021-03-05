@@ -1,6 +1,6 @@
 let input = document.querySelector("#input");
 let btn = document.querySelector("#search");
-let apikey = "63bff31f-326f-436b-a27e-468aacd59603";
+let apikey = "##";
 let notfound = document.querySelector(".not_found");
 let def = document.querySelector(".def");
 let loading = document.querySelector(".loader");
