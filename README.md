@@ -5,6 +5,10 @@ Dictonary WebApp is a simple website which uses some APIs to fetch data from [di
 # Languages Used: 
 HTML5,CSS3, Javascript
 
+# Link of the Website
+
+https://dictionaryappv1.herokuapp.com/
+
 # Demo of the Dictionary Application
 
 https://www.linkedin.com/posts/arijit-sarkar-9911a319a_html5-css3-javascript-activity-6773093072302698496-eBkp
