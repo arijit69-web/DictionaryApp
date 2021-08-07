@@ -1,6 +1,6 @@
 # Dictionary App
 # Aim: 
-The aim of the project is to create a Dictionary App using real-time API.
+Dictonary WebApp is a simple website which uses some APIs to fetch data from (dictionaryapi)[https://dictionaryapi.com/] and display the meaning of the words.
 
 # Languages Used: 
 HTML5,CSS3, Javascript
