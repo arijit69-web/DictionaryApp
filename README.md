@@ -11,7 +11,7 @@ Dictonary WebApp is a simple website which uses some APIs to fetch data from [di
 
 https://dictionaryappv1.herokuapp.com/
 
- # Screenshot of the Website :
+ # Screenshots of the Website :
 
 
 <img width="960" alt="Dict" src="https://user-images.githubusercontent.com/60184336/122881419-c6279e00-d358-11eb-9d66-f91aa41e1389.PNG">
