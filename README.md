@@ -4,7 +4,7 @@ Dictonary WebApp is a simple website which uses some APIs to fetch data from [di
 
 # Languages Used: 
 - HTML5
-- CSS3-
+- CSS3
 - Javascript
 
 # Link of the Website (It may take some time to open) : 
