@@ -1,17 +1,13 @@
 # Dictionary App
-# Aim: 
+## Aim: 
 Dictonary WebApp is a simple website which uses some APIs to fetch data from [dictionaryapi](https://dictionaryapi.com/) and display the meaning of the words.
 
-# Languages Used: 
+## Languages Used: 
 - HTML5
 - CSS3
 - Javascript
 
-# Link of the Website (It may take some time to open) : 
-
-https://dictionaryappv1.herokuapp.com/
-
- # Screenshots of the Website :
+## Screenshots of the Website :
 
 
 <img width="960" alt="Dict" src="https://user-images.githubusercontent.com/60184336/122881419-c6279e00-d358-11eb-9d66-f91aa41e1389.PNG">
