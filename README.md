@@ -1,4 +1,4 @@
-# Dictionary App
+# Dictionary WebApp
 ## Aim: 
 Dictonary WebApp is a simple website which uses some APIs to fetch data from [dictionaryapi](https://dictionaryapi.com/) and display the meaning of the words.
 
