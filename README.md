@@ -3,9 +3,11 @@
 Dictonary WebApp is a simple website which uses some APIs to fetch data from [dictionaryapi](https://dictionaryapi.com/) and display the meaning of the words.
 
 ## Languages Used: 
+```
 - HTML5
 - CSS3
 - Javascript
+```
 
 ## Screenshots of the Website :
 
