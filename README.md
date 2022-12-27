@@ -1,6 +1,6 @@
 # Dictionary WebApp
 ## Aim: 
-A dictionary web application uses some APIs to fetch data from dictionaryapi and display the meaning of the words. If you enter a word without a meaning, it will suggest some words. If you enter a gibberish word, it will show an error message "No Result Found".
+Dictionary WebApp uses some APIs to fetch data from dictionaryapi and display the meaning of the words. If you enter a word without a meaning, it will suggest some words. If you enter a gibberish word, it will show an error message "No Result Found".
 
 ## Languages Used: 
 ```
